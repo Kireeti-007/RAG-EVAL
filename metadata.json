@@ -1,0 +1,6 @@
+{
+  "name": "RAG Pipeline & Auto-Evaluation Dashboard",
+  "description": "Production RAG engine with hybrid search, interactive document chunking, citation tracing, and multi-metric auto-evaluation scoring faithfulness, relevance, and groundedness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
